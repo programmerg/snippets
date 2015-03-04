@@ -1,2 +1,2 @@
 # snippets
-- distance.sql - get points within 5 km
+- [distance.sql](distance.sql) - get points within 5 km
